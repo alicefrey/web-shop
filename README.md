@@ -1,7 +1,7 @@
 # web-shop
 
 ## GitHub Pages
-Check out the live version of the project hosted on GitHub Pages: [Web Shop](https://thebughuntress.github.io/web-shop/).
+Check out the live version of the project hosted on GitHub Pages: [Web Shop](https://alicefrey.github.io/web-shop/).
 
 ## Tech Stack
 - **ReactJS**: A powerful JavaScript library for building user interfaces.
@@ -13,7 +13,7 @@ Check out the live version of the project hosted on GitHub Pages: [Web Shop](htt
 
 
 ## Mock API Server (Fake Backend)
-A mock JSON Server is up and running [here](https://my-json-server.typicode.com/thebughuntress/web-shop).
+A mock JSON Server is up and running [here](https://my-json-server.typicode.com/alicefrey/web-shop).
 
 ### How to use
 1. Create a repository on GitHub
